@@ -25,5 +25,3 @@ def creartxt():
     conP.close()
 creartxt()
 
-## bibliografia:
-##  http://pharalax.com/blog/python-buscador-de-palabras-en-un-archivo/
